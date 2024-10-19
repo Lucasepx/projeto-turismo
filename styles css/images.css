@@ -1,0 +1,32 @@
+.img-title p{
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  color: #696969;
+  margin-bottom: 40px;
+  
+}
+
+ol img + li{
+  font-size: 28px;
+  font-weight: bold;
+  
+  
+  }
+
+  #list img{
+    border-radius: 28px;
+    height: 350px;
+    width: 100%;    
+  
+  
+  }
+
+  .img-title img{
+    border-radius: 28px;
+    height: 660px;
+    width: 100%;
+    
+    
+  
+  }

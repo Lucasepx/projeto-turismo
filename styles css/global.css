@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #29292e;
+}
+
+
+#page{
+  background-color: #f5f4f0;
+  border: #d9d9d9;
+  font-family: "Open Sans", sans-serif;
+  max-width: 1120px;
+  max-height: 3054px;
+  margin: auto;
+  padding: 88px 80px 137px 80px;
+  box-sizing: border-box;
+  
+}
