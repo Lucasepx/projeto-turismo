@@ -1,0 +1,55 @@
+.title{
+  margin-bottom: 40px;
+}
+
+
+.img-title p{
+  margin-top: 24px;
+
+}
+
+
+#list ol {
+  margin-top: 64px; 
+
+}
+
+#list ol > li {
+  margin-top: 20px; 
+}
+
+
+#list ul + img {
+  margin-top: 48px;
+}
+
+
+
+#line-title{
+
+  max-width: 1120px;
+  border: 1px solid #D9D9D9;
+  margin-top: 44px;
+  margin-bottom: 64px;
+  
+  }
+  
+
+
+
+footer{
+  margin-top: 65px;
+}
+
+#line-footer{
+
+max-width: 1120px;
+border: 1px solid #D9D9D9;
+margin-top: 40px;
+margin-bottom: 40px;
+
+}
+
+ul li {
+  list-style-type: disc;
+}

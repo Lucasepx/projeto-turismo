@@ -1,10 +1,12 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body{
   background-color: #29292e;
+  
 }
 
 
@@ -13,9 +15,14 @@ body{
   border: #d9d9d9;
   font-family: "Open Sans", sans-serif;
   max-width: 1120px;
-  max-height: 3054px;
   margin: auto;
-  padding: 88px 80px 137px 80px;
-  box-sizing: border-box;
+  padding: 88px 80px 48px 80px;
   
 }
+
+
+
+
+
+
+
